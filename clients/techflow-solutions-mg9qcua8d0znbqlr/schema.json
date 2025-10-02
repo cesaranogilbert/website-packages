@@ -1,0 +1,183 @@
+{
+  "companyName": "TechFlow Solutions",
+  "tagline": "Streamline Your Business with AI",
+  "description": "We help businesses automate their workflows and boost productivity with cutting-edge AI solutions. Transform your operations and scale faster than ever before.",
+  "industry": "Technology",
+  "websiteUrl": "https://techflowsolutions.com",
+  "email": "hello@techflowsolutions.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Innovation Drive",
+  "city": "San Francisco",
+  "country": "United States",
+  "primaryColor": "#6366f1",
+  "secondaryColor": "#8b5cf6",
+  "brandKeywords": [
+    "AI",
+    "Automation",
+    "Efficiency",
+    "Innovation"
+  ],
+  "heroTitle": "Transform Your Business with AI-Powered Automation",
+  "heroSubtitle": "Join 500+ companies that have increased productivity by 300% using our platform",
+  "heroButtonText": "Start Free Trial",
+  "heroButtonLink": "/signup",
+  "features": [
+    {
+      "title": "Intelligent Automation",
+      "description": "Automate repetitive tasks with our advanced AI algorithms that learn from your workflows",
+      "icon": "Zap"
+    },
+    {
+      "title": "Real-Time Analytics",
+      "description": "Get instant insights into your business metrics with beautiful, actionable dashboards",
+      "icon": "BarChart3"
+    },
+    {
+      "title": "Seamless Integration",
+      "description": "Connect with 50+ tools you already use. No coding required, set up in minutes",
+      "icon": "Plug"
+    },
+    {
+      "title": "24/7 Support",
+      "description": "Our expert team is always available to help you succeed with dedicated support",
+      "icon": "Headphones"
+    },
+    {
+      "title": "Enterprise Security",
+      "description": "Bank-level encryption and compliance with SOC 2, GDPR, and HIPAA standards",
+      "icon": "Shield"
+    },
+    {
+      "title": "Custom Workflows",
+      "description": "Build unlimited custom automation workflows tailored to your unique needs",
+      "icon": "Settings"
+    }
+  ],
+  "pricingTiers": [
+    {
+      "name": "Starter",
+      "price": "$29",
+      "currency": "USD",
+      "billingPeriod": "monthly",
+      "features": [
+        "Up to 1,000 automation runs/month",
+        "5 active workflows",
+        "Basic integrations",
+        "Email support",
+        "7-day free trial"
+      ],
+      "isPopular": false
+    },
+    {
+      "name": "Professional",
+      "price": "$99",
+      "currency": "USD",
+      "billingPeriod": "monthly",
+      "features": [
+        "Up to 10,000 automation runs/month",
+        "Unlimited workflows",
+        "All integrations",
+        "Priority support",
+        "Advanced analytics",
+        "Custom branding",
+        "14-day free trial"
+      ],
+      "isPopular": true
+    },
+    {
+      "name": "Enterprise",
+      "price": "$299",
+      "currency": "USD",
+      "billingPeriod": "monthly",
+      "features": [
+        "Unlimited automation runs",
+        "Dedicated account manager",
+        "Custom integrations",
+        "24/7 phone support",
+        "SLA guarantees",
+        "Advanced security features",
+        "Onboarding & training",
+        "30-day free trial"
+      ],
+      "isPopular": false
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "role": "CEO",
+      "company": "DataCorp Inc",
+      "quote": "TechFlow has completely transformed how we operate. We've saved 20 hours per week on manual tasks and our team can focus on what really matters.",
+      "rating": 5
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Operations Manager",
+      "company": "GrowthHub",
+      "quote": "The ROI was immediate. Within the first month, we automated our entire onboarding process and reduced errors by 95%. Absolutely game-changing.",
+      "rating": 5
+    },
+    {
+      "name": "Emily Rodriguez",
+      "role": "CTO",
+      "company": "InnovateNow",
+      "quote": "Best automation platform we've used. The AI capabilities are truly impressive and the support team is exceptional. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to set up?",
+      "answer": "Most customers are up and running within 15 minutes. Our intuitive interface guides you through the setup process, and our templates help you get started instantly."
+    },
+    {
+      "question": "Do I need technical knowledge?",
+      "answer": "Not at all! Our platform is designed for everyone. The visual workflow builder requires zero coding. However, developers can use our API for advanced customizations."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes, absolutely. There are no long-term contracts or commitments. You can cancel your subscription at any time with just one click."
+    },
+    {
+      "question": "What integrations do you support?",
+      "answer": "We integrate with 50+ popular tools including Slack, Google Workspace, Salesforce, HubSpot, Stripe, and many more. We add new integrations every month based on customer requests."
+    },
+    {
+      "question": "Is my data secure?",
+      "answer": "Security is our top priority. We use bank-level AES-256 encryption, are SOC 2 Type II certified, and fully compliant with GDPR and HIPAA. Your data is encrypted both in transit and at rest."
+    },
+    {
+      "question": "Do you offer a free trial?",
+      "answer": "Yes! All plans come with a free trial period - no credit card required. You can explore all features and cancel anytime during the trial if it's not the right fit."
+    }
+  ],
+  "ctaTitle": "Ready to Transform Your Business?",
+  "ctaDescription": "Join thousands of companies already saving time and money with TechFlow. Start your free trial today - no credit card required.",
+  "ctaButtonText": "Get Started Free",
+  "ctaButtonLink": "/signup",
+  "socialLinks": {
+    "facebook": "https://facebook.com/techflowsolutions",
+    "twitter": "https://twitter.com/techflowsol",
+    "linkedin": "https://linkedin.com/company/techflow-solutions",
+    "instagram": "https://instagram.com/techflowsolutions"
+  },
+  "hasCheckout": true,
+  "checkoutType": "stripe",
+  "hasPopup": true,
+  "popupOffer": {
+    "title": "Limited Time Offer!",
+    "description": "Get 20% off your first 3 months when you sign up today. Use code WELCOME20 at checkout.",
+    "discountCode": "WELCOME20",
+    "discountPercentage": 20,
+    "buttonText": "Claim Offer"
+  },
+  "hasCartAbandonment": true,
+  "abandonmentOffer": {
+    "discountPercentage": 15,
+    "timerMinutes": 2,
+    "message": "Wait! Don't miss out on 15% off. Complete your purchase in the next 2 minutes!"
+  },
+  "emailProvider": "sendgrid",
+  "welcomeEmailSubject": "Welcome to TechFlow - Let's Get Started!",
+  "welcomeEmailContent": "Thanks for choosing TechFlow! We're excited to help you automate your business workflows."
+}

@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "customerSlug": "techflow-solutions-mg9qefx21lsycibl",
+  "generatedAt": "2025-10-02T18:11:06.903Z",
+  "metadata": {
+    "companyName": "TechFlow Solutions",
+    "industry": "Technology",
+    "websiteUrl": "https://techflowsolutions.com",
+    "primaryColor": "#6366f1",
+    "secondaryColor": "#8b5cf6"
+  },
+  "entryPoints": {
+    "homePage": "src/pages/techflow-solutions-mg9qefx21lsycibl-home.tsx",
+    "checkoutPage": "src/pages/techflow-solutions-mg9qefx21lsycibl-checkout.tsx",
+    "rootComponent": "src/components/techflow-solutions-mg9qefx21lsycibl-app.tsx"
+  },
+  "routes": {
+    "/sites/techflow-solutions-mg9qefx21lsycibl": "TechflowSolutionsMg9qefx21lsyciblHome",
+    "/sites/techflow-solutions-mg9qefx21lsycibl/checkout": "TechflowSolutionsMg9qefx21lsyciblCheckout"
+  },
+  "integrations": {
+    "popups": {
+      "hasPopup": true,
+      "discountCode": "WELCOME20",
+      "discountPercent": 20
+    },
+    "cartAbandonment": {
+      "enabled": true,
+      "discountPercent": 15
+    }
+  },
+  "assets": {
+    "images": []
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "@radix-ui/react-accordion": "^1.1.2",
+    "@radix-ui/react-dialog": "^1.0.5"
+  },
+  "seo": {
+    "title": "TechFlow Solutions - Streamline Your Business with AI",
+    "description": "We help businesses automate their workflows and boost productivity with cutting-edge AI solutions. Transform your operations and scale faster than ever before.",
+    "keywords": [
+      "Technology",
+      "TechFlow Solutions"
+    ]
+  },
+  "checksums": {}
+}

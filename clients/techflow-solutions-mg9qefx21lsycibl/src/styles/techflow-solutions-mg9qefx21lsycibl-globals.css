@@ -1,0 +1,16 @@
+[data-customer="techflow-solutions-mg9qefx21lsycibl"] {
+  --primary: #6366f1;
+  --secondary: #8b5cf6;
+}
+
+.techflow-solutions-mg9qefx21lsycibl-app {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.techflow-solutions-mg9qefx21lsycibl-hero {
+  background: linear-gradient(135deg, #6366f115 0%, #8b5cf615 100%);
+}
+
+.techflow-solutions-mg9qefx21lsycibl-cta {
+  background-color: #6366f1;
+}

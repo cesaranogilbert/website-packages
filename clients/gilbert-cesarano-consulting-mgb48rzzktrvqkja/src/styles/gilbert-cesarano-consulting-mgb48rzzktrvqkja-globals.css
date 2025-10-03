@@ -1,0 +1,16 @@
+[data-customer="gilbert-cesarano-consulting-mgb48rzzktrvqkja"] {
+  --primary: #8823c5;
+  --secondary: royal blue;
+}
+
+.gilbert-cesarano-consulting-mgb48rzzktrvqkja-app {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.gilbert-cesarano-consulting-mgb48rzzktrvqkja-hero {
+  background: linear-gradient(135deg, #8823c515 0%, royal blue15 100%);
+}
+
+.gilbert-cesarano-consulting-mgb48rzzktrvqkja-cta {
+  background-color: #8823c5;
+}

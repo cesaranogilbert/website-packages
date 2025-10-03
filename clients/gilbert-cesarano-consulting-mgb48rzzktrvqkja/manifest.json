@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "customerSlug": "gilbert-cesarano-consulting-mgb48rzzktrvqkja",
+  "generatedAt": "2025-10-03T17:26:23.424Z",
+  "metadata": {
+    "companyName": "Gilbert Cesarano Consulting",
+    "industry": "💼 Professional Services",
+    "primaryColor": "#8823c5",
+    "secondaryColor": "royal blue"
+  },
+  "entryPoints": {
+    "homePage": "src/pages/gilbert-cesarano-consulting-mgb48rzzktrvqkja-home.tsx",
+    "checkoutPage": "src/pages/gilbert-cesarano-consulting-mgb48rzzktrvqkja-checkout.tsx",
+    "rootComponent": "src/components/gilbert-cesarano-consulting-mgb48rzzktrvqkja-app.tsx"
+  },
+  "routes": {
+    "/sites/gilbert-cesarano-consulting-mgb48rzzktrvqkja": "GilbertCesaranoConsultingMgb48rzzktrvqkjaHome",
+    "/sites/gilbert-cesarano-consulting-mgb48rzzktrvqkja/checkout": "GilbertCesaranoConsultingMgb48rzzktrvqkjaCheckout"
+  },
+  "integrations": {
+    "popups": {
+      "hasPopup": true,
+      "discountCode": "WELCOME30",
+      "discountPercent": 30
+    },
+    "cartAbandonment": {
+      "enabled": true,
+      "discountPercent": 20
+    }
+  },
+  "assets": {
+    "images": []
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "@radix-ui/react-accordion": "^1.1.2",
+    "@radix-ui/react-dialog": "^1.0.5"
+  },
+  "seo": {
+    "title": "Gilbert Cesarano Consulting - Turn Your Data Into Profits",
+    "description": "Maximize the full potential of your Data, Attention, AI & Automation with a Qlik Data Executive tailored for large companies & enterprises. Trust in the expertise and quality of Swiss Efficiency to boost your Business Growth and Performance.",
+    "keywords": [
+      "💼 Professional Services",
+      "Gilbert Cesarano Consulting"
+    ]
+  },
+  "checksums": {}
+}

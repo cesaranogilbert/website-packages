@@ -1,0 +1,161 @@
+{
+  "features": [
+    {
+      "title": "Lightning-Fast Performance",
+      "description": "Systematic, meaningful, fast, trustworthy and high-quality execution",
+      "icon": "lightning"
+    },
+    {
+      "title": "End-2-End Global Strategy Expertise",
+      "description": "Global Strategy Knowhow on Cloud Architecture and End-2-End Data Lifecycle",
+      "icon": "Rocket"
+    },
+    {
+      "title": "Diamond-Clear Integrity",
+      "description": "honest communication with real & trustworthy content",
+      "icon": "Star"
+    },
+    {
+      "title": "High-Valuable Network",
+      "description": "Connected with high quality individuals for more value sharing and generation",
+      "icon": "Spiderweb"
+    },
+    {
+      "title": "Teamwork & Accountability",
+      "description": "Collaboration focused with meaningful Team structures and always taking responsibility",
+      "icon": "diamond"
+    }
+  ],
+  "pricingTiers": [
+    {
+      "name": "Starter",
+      "price": "$49/month",
+      "features": [
+        "- content material",
+        "- monthly 1h strategy group call",
+        "- execution list"
+      ],
+      "isPopular": false,
+      "currency": "USD",
+      "billingPeriod": "monthly"
+    },
+    {
+      "name": "Professional",
+      "price": "999/month",
+      "features": [
+        "Weekly 1on1 Strategy Call",
+        "Content Material ",
+        "Monthly Group Call",
+        "Execution List ",
+        "Exclusive Material",
+        "Notion workspace & Templates"
+      ],
+      "isPopular": false,
+      "currency": "USD",
+      "billingPeriod": "monthly"
+    },
+    {
+      "name": "Enterprise",
+      "price": "$19999/month",
+      "features": [
+        "Remote Daily Execution Support & Availability",
+        "Weekly 1on1 Strategy Call",
+        "Customized Content Material ",
+        "Monthly Group Call",
+        "Customized Execution List ",
+        "Exclusive Material",
+        "Customized Notion workspace & Templates",
+        "Network & Knowledge Sharing"
+      ],
+      "isPopular": true,
+      "currency": "USD",
+      "billingPeriod": "monthly"
+    },
+    {
+      "name": "VIP",
+      "price": "$249000/year",
+      "features": [
+        "Remote & Onsite Daily Execution Support & Availability",
+        "Yearly ROI & Performance Analysis",
+        "Quaterly Steering Meeting",
+        "Weekly 1on1 Strategy Call",
+        "Customized Content Material ",
+        "Monthly Group Call",
+        "Customized Execution List ",
+        "Exclusive Material",
+        "Customized Notion workspace & Templates",
+        "Network & Knowledge Sharing"
+      ],
+      "isPopular": false,
+      "currency": "USD",
+      "billingPeriod": "monthly"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Maersk",
+      "quote": "exceptional performance and highly knowledgeable and professional",
+      "role": "Head of Data & BI"
+    },
+    {
+      "name": "Siemens Smart Infrastructure",
+      "quote": "Professional communication and collaboration. Teamplayer  & Leader with high integrity and accountability",
+      "role": "Head of BI SI"
+    },
+    {
+      "name": "Lufthansa Sky Group",
+      "quote": "Very efficient, highly reliable and always on-time and on-budget",
+      "role": "IT Manager"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can I get started with Gilbert Cesarano?",
+      "answer": "Book a call for a short introduction or fill out the application form. This will help identify your needs and the feasibility of your request."
+    },
+    {
+      "question": "What is he specialized into?",
+      "answer": "Mainly Qlik Sense, Qlik Cloud, QlikView with SAP for Finance, Procurement and Global Trade Management but also very knowledgeable in other products, IT cloud architectures due to constant learning habits and professional track records."
+    },
+    {
+      "question": "What is his background?",
+      "answer": "Born in Germany, raised in Italy, continued school and university in Mainz Germany studying Bachelor of Science in Mathematics & Economics with a big focus on IT & Business Intelligence and since 2018 living in Switzerland. Gilbert Cesarano is a relentless explorer and constant learner always looking for Win-Win opportunities."
+    }
+  ],
+  "companyName": "Gilbert Cesarano Consulting",
+  "tagline": "Turn Your Data Into Profits",
+  "description": "Maximize the full potential of your Data, Attention, AI & Automation with a Qlik Data Executive tailored for large companies & enterprises. Trust in the expertise and quality of Swiss Efficiency to boost your Business Growth and Performance.",
+  "industry": "💼 Professional Services",
+  "email": "",
+  "city": "Zug Switzerland",
+  "country": "Switzerland",
+  "primaryColor": "#8823c5",
+  "secondaryColor": "royal blue",
+  "heroTitle": "Global Strategy - Turn Your Data Into Profits With AI & Automation",
+  "heroSubtitle": "Certified in Qlik & Business Intelligence with 15+ years experience",
+  "heroButtonText": "Schedule a Strategy Call",
+  "heroButtonLink": "https://calendly.com/cesaranogilbert",
+  "ctaTitle": "Ready to Step Up and Transform Your Business?",
+  "ctaDescription": "Schedule Your Free Introduction Call Today and Get a Share of his High-Valuable Limited Availability",
+  "ctaButtonText": "Start Now!",
+  "ctaButtonLink": "https://calendly.com/cesaranogilbert",
+  "hasCheckout": true,
+  "checkoutType": "stripe",
+  "hasPopup": true,
+  "popupOffer": {
+    "title": "Get 30% OFF for Your First Order!",
+    "description": "Professional Tier with additional weekly support",
+    "buttonText": "Get Offer",
+    "discountCode": "WELCOME30",
+    "discountPercentage": 30
+  },
+  "hasCartAbandonment": true,
+  "abandonmentOffer": {
+    "discountPercentage": 20,
+    "timerMinutes": 2,
+    "message": "Save 20% on your order!"
+  },
+  "emailProvider": "sendgrid",
+  "welcomeEmailSubject": "Welcome! Looking forward to our Collaboration!",
+  "welcomeEmailContent": "Thank you for entrusting me with your requests and I will do my best to ensure we achieve all the goals aligned and set and deliver as planned."
+}
